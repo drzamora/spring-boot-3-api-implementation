@@ -31,6 +31,3 @@ links
 <a>https://trello.com/b/yGQuuyVV/api-voll-med</a><br>
 <a href="https://www.figma.com/file/vgn35i1ErivIN8LJYEqxGZ/Untitled?node-id=0-223&t=YNrx4H2YyxEWXQFb-0">modelo en FiGMA</a>
 
-
-=======
-
